@@ -1,0 +1,8 @@
+{
+	"init" : "settings.json read",
+	"public" : {
+		"ga" : {
+			"account" : "UA-XXXXXXXXX-X"
+		}
+	}
+}
